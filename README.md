@@ -10,6 +10,10 @@ BlueTeam - Tools and more..
 - [picosnitch](https://github.com/elesiuta/picosnitch): A reasonably reliable per application network traffic monitor using BPF
 
 ## `IDS` - ( Intrusion Detection System )
+- [MalTrail](https://github.com/stamparm/maltrail) Malicious traffic detection system
+  > ![image](https://user-images.githubusercontent.com/51442719/178062277-e3d96e6c-aecd-4eff-9ef2-f86a76370c4a.png)
+
+
 
 
 
