@@ -7,6 +7,11 @@ BlueTeam - Tools and more..
 
 ---
 
+## 🤩 [Awesome Cybersecurity Blue Team](https://github.com/fabacab/awesome-cybersecurity-blueteam)
+- 💻🛡️ A curated collection of awesome resources, tools, and other shiny things for cybersecurity blue teams.
+
+
+
 ## Monitoring
 
 - [wos](https://github.com/miguelmota/wos): Monitor traffic for unencrypted data (using tshark) and display a dashboard in terminal.
