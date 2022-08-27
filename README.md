@@ -486,6 +486,8 @@ See also [awesome-windows#security](https://github.com/Awesome-Windows/Awesome#s
 - [MalTrail](https://github.com/stamparm/maltrail): Malicious traffic detection system
   > ![image](https://user-images.githubusercontent.com/51442719/178062277-e3d96e6c-aecd-4eff-9ef2-f86a76370c4a.png)
 
+- [LOLBAS](https://github.com/LOLBAS-Project/LOLBAS)
+
 ---
 
 ![image](https://user-images.githubusercontent.com/51442719/172269105-66fb4527-9c1a-463e-a920-7caa0f930021.png)
